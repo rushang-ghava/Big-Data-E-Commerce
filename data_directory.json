@@ -1,0 +1,35 @@
+[
+    {
+        "name":"olist_customers_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_customers_dataset.csv"
+    },
+    {
+        "name":"olist_geolocation_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_geolocation_dataset.csv"
+    },
+    {
+        "name":"olist_order_items_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_order_items_dataset.csv"
+    },
+    {
+        "name":"olist_order_payments_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_order_payments_dataset.csv"
+    },
+    {
+        "name":"olist_order_reviews_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_order_reviews_dataset.csv"
+    },
+    {
+        "name":"olist_orders_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_orders_dataset.csv"
+    },
+    {
+        "name":"olist_sellers_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_sellers_dataset.csv"
+    },
+    {
+        "name":"olist_customers_dataset.csv",
+        "path":"Big-Data-E-Commerce/refs/heads/master/data/olist_customers_dataset.csv"
+    }
+    
+]
