@@ -28,8 +28,8 @@
         "path":"data/olist_sellers_dataset.csv"
     },
     {
-        "name":"olist_customers_dataset.csv",
-        "path":"data/olist_customers_dataset.csv"
+        "name":"olist_products_dataset.csv",
+        "path":"data/olist_products_dataset.csv"
     }
     
 ]
